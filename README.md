@@ -1,0 +1,2 @@
+# cashman
+Solution to cashman
