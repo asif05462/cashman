@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: com.wns.cashman.service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: USER
+Implementation-Vendor-Id: com-wns-cashman-service
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/com.wns.cashman.app/com.wns.cashman.service
+Created-By: Maven Integration for Eclipse
+

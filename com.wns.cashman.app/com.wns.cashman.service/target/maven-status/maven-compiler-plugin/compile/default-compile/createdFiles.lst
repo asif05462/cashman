@@ -1,0 +1,5 @@
+com\wns\cashman\service\impl\AtmWithdrawalImpl.class
+com\wns\cashman\util\ResponseBean.class
+com\wns\cashman\util\RequestBean.class
+com\wns\cashman\service\impl\ATMWithdrawal.class
+com\wns\cashman\service\IAtmWithdrawal.class
